@@ -1,2 +1,0 @@
-#  when ever we want to create a new window we should instanciate the Browserview object 
-# npx electronmon .  : like nodemon : it start and restart manually the service . 
